@@ -1,3 +1,3 @@
-# CS121-Miller
-# Sets and iterators
-# Bubble sort
+# Jadi Miller's CS121 Portfolio
+Sets and iterators
+Bubble sort
