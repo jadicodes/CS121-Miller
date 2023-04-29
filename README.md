@@ -9,4 +9,4 @@
 | Activity 25 | [Bubble Sort](https://github.com/jadimiller/CS121-Miller/tree/main/BubbleSort) | A bubble sort algorithm that uses user inputted integers. |
 | Activity 26 | [Quick Sort](https://github.com/jadimiller/CS121-Miller/tree/main/sortingActivity2) | A quick sort algorithm that uses user inputted integers. |
 | Activity 27 | [Binary Search](https://github.com/jadimiller/CS121-Miller/tree/main/binarySearchActivity) | A binary search algorithm that searches through user inputted integers. |
-| Activity 28 | [Sets and Iterators](https://github.com/jadimiller/CS121-Miller/tree/main/setAndIteratorActivity) | Creates a set titled "students", prompts user for number of students they want to add, lets them enter names, and then displays them using an interator. |
+| Activity 28 | [Sets and Iterators](https://github.com/jadimiller/CS121-Miller/tree/main/setAndIteratorActivity) | Creates a set titled "students", prompts user for number of students they want to add, lets them enter names, and then displays them using an iterator. |
