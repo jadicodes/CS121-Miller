@@ -1,5 +1,7 @@
 # Jadi Miller's CS121 Portfolio
 
-| Sets and iterators | Link |
------------------------------
-| Bubble sort        | Link |
+| Activity Name | Link | Description |
+---------------------|-------|----------|
+| Bubble sort        | Link | Description |
+| Tee hee            | Link | Description |
+| Sets and Iterators | Link | Description |
