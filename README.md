@@ -2,6 +2,7 @@
 
 | Activity Number | Name & Link | Description |
 ---------------------|-------|----------|
+| Project 1 | [Project 1](https://github.com/jadimiller/CS121-Miller/tree/main/ProjectOne) | Description |
 | Project 2 | [Project 2](https://github.com/jadimiller/CS121-Miller/tree/main/project2) | Description |
 | Activity 2 | [Conditionals](https://github.com/jadimiller/CS121-Miller/tree/main/ConditionalsActivity) | Description |
 | Activity 23 | [Recursion](https://github.com/jadimiller/CS121-Miller/tree/main/RecursionActivity) | Description |
