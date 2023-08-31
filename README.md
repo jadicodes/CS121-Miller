@@ -1,5 +1,5 @@
 # Jadi Miller's CS121 Portfolio
-
+Ball State's CS121: Data Structures and Objects class teaches Java with a strong emphasis on object-oriented paradigm and related problem-solving skills. Topics include recursion, dynamic data structures and related algorithms, efficient sorting and searching, file processing, and reusing standard libraries and packages.
 | Activity Number | Name & Link | Description |
 ---------------------|-------|----------|
 | Project 1 | [Project 1](https://github.com/jadimiller/CS121-Miller/tree/main/ProjectOne) | A text based Pokémon battle game between two players that demonstrates conditionals. |
